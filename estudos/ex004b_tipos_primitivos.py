@@ -1,3 +1,5 @@
+# AULA DE TIPO PRIMITIVO
+
 # Exemplo de números Stringers
 n = str(input('Digite um valor:'))
 print(n)
@@ -17,6 +19,7 @@ print(type(n))
 n = input('Digite um valor:')
 print(n.isnumeric)
 print(type(n))
+
 # isnumeric = se o valor digitado é numérico
 # isalpha = se o valor digitado é letra
 # isalnum = se o valor digitado é número e letra 
@@ -24,6 +27,7 @@ print(type(n))
 # islower = se o valor digitado é letra minuscula
 # isprintable = se o valor digitado é pode ser expresso
 # isspace = se o valor digitado é um espaço
+# is = se o valor digitado em maiusculas e minuscula é um valor CAPITALIZADO
 
 
 
