@@ -25,6 +25,9 @@
 # 3º - Mutiplicação, divisão, divisão inteira e resto da divisão-OBS: Faz quem aparecer primeiro (*,/, //, %)
 # 4º - Adição ou Subtração (+ ou -)
 
-# Exemplo:
+# Exemplos:
 # 5 + 3 * 2 == 11 (Resultado: Primeiro faz a multiplicação e depois a soma)
 # 3 * 5 + 4 ** 2 == 31 (Resultado: Primeiro faz a potenciação 4**2==16, depois faz a multiplicação 3*5==15 e no final a soma o resultado da potenciação com o resultado multiplicação 16+15==31)
+
+# No caso de existir parenteses na conta, significa que há precedencia para realizar o que está dentro do parenteses primeiro. 
+# 3 * (5 + 4) ** 2 == 243 (Resultado: Primeiro faz a soma dentro do parenteses (5 + 4 == 9), depois faz a potenciação (Nove elevado ao quadrado ou 9 vezes 9 == 81) e no final a multiplicação ( 81 vezes 3 == 243)
