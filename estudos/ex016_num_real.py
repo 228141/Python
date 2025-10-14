@@ -2,4 +2,9 @@
 
 from math important trunc
 num = float(input('Digite um valor? '))
-print("O valor digitado é {} e a sua porção inteira é {}'.format(num, trunc(num))
+print("O valor digitado foi {} e a sua porção inteira é {}'.format(num, trunc(num))
+
+#outra forma de representar
+
+'''num = float(input('Digite um valor? '))
+print('O valor digitado foi {} e a sua porção interia é {}'.format(num, int(num))'''
