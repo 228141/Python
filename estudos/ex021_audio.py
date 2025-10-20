@@ -4,7 +4,7 @@ import pygame
 import os
 
 # Caminho completo do arquivo MP3
-arquivo = r"C:\Users\jailton.pereira\Documents\meus-projetos\Python\estudos\steve_wonder.mp3"
+arquivo = r"C:\Users\jailton.pereira\Documents\meus-projetos\Python\estudos\ex021_steve_wonder.mp3"
 
 # Verifica se o arquivo existe
 if not os.path.exists(arquivo):
