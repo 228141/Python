@@ -16,5 +16,5 @@ print('Comparando: A prestação mensal É de R$ {:.2f} e 30% do seu salário é
 if prestacao > limite:
     print(f"\033[1;31mEmpréstimo NEGADO!\033[m A prestação mensal de R$ {prestacao:.2f} excede 30% do salário.")
 else:
-    print(f"\033[1;32mEmpréstimo APROVADO!\033[m A prestação mensal será de R$ {prestacao:.2f} por {meses} meses.")
+    print(f"\033[1;32mEmpréstimo APROVADO!\033[m A prestação mensal será de R$ {prestacao:.2f} por {meses:.2f} meses.")
   
