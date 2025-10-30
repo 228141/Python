@@ -1,0 +1,1 @@
+#Faça um programa que leia um número qualquer e mostre o seu fatorial. EX: 5! = 5X4X3X2X1 = 120
